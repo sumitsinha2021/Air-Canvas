@@ -7,7 +7,8 @@ OPENCV & NUMPY IN PYTHON
 -----------------------------------------------------------------------------***---------------------------------------------------------------------------
  
 
-Abstract – Writing in air has been one of the most fascinating and challenging research areas in field of image processing and pattern recognition in the recent years.
+Abstract – 
+Writing in air has been one of the most fascinating and challenging research areas in field of image processing and pattern recognition in the recent years.
 It contributes immensely to the advancement of an automation process and can improve the interface between man and machine in numerous applications. Several research 
 works have been focusing on new techniques and methods that would reduce the processing time while providing higher recognition accuracy.Object tracking is considered
 as an important task within the field of Computer Vision. The invention of faster computers, availability of inexpensive and good quality
@@ -22,7 +23,8 @@ that reduces mobile and laptop usage by eliminating the need to write.
 
 
 
-Keywords - Air Writing, Character Recognition, Object Detection, Real-Time Gesture Control System, Smart Wearables, Computer Vision.
+Keywords -
+Air Writing, Character Recognition, Object Detection, Real-Time Gesture Control System, Smart Wearables, Computer Vision.
 
 
 
@@ -64,8 +66,7 @@ be manipulated. It achieves this by using an infrared camera. Determining the fi
 
 
 
-CHALLENGES IDENTIFIED
-                
+CHALLENGES IDENTIFIED             
 Fingertip detection- The existing system only works with your fingers, and there are no highlighters, paints, or relatives. Identifying and characterizing an object such as a finger from an RGB
 image without a depth sensor is a great challenge.
 
