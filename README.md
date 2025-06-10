@@ -5,7 +5,7 @@ Sumit Kumar Sinha
 Dept. of Computer Science and Engineering,
 Meerut Institute of Technology, Meerut
 
-Email Id: Sumit.sinha.ds.2021@mitmeerut.ac.in
+Email Id: sumit.sinha.ds.2021@mitmeerut.ac.in
 
 Under the guidance of Dr. Praveen Kumar
 MEERUT INSTITUTE OF TECHNOLOGY, MEERUT, UP, INDIA
